@@ -13,7 +13,7 @@ export const robots = [{
 {
     id: 3,
     name: 'Ekz Dragon',
-    username: 'Wishmaster',
+    username: 'Ekzdragon',
     email: 'dragonekz@gmail.com'
 },
 {
@@ -24,20 +24,20 @@ export const robots = [{
 },
 {
     id: 5,
-    name: 'Isaac Saldana',
-    username: 'KrimsnCat',
+    name: 'KrimsnCat',
+    username: 'Isaac',
     email: 'email@gmail.com'
 },
 {
     id: 6,
-    name: 'Mia Spell',
-    username: 'Mitsuki',
+    name: 'Mitsuki',
+    username: 'Mia',
     email: 'email@gmail.com'
 },
 {
     id: 7,
-    name: 'Emma Spell',
-    username: 'Emma Spell',
+    name: 'PikaPikaKai',
+    username: 'Emma',
     email: 'noemail@gmail.com'
 },
 ]
